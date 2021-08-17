@@ -1,0 +1,18 @@
+.offer {
+  margin-left: 10vw;
+  display: flex;
+  width: 50vw;
+}
+
+.bank{
+  flex: 1;
+}
+.interest_rate{
+  flex: 1;
+}
+.total_pay_amount{
+  flex: 1;
+}
+.accepted {
+  background-color: cadetblue;
+}

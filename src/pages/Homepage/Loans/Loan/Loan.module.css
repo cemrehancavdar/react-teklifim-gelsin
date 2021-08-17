@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  border: 1px solid #333;
+  border-radius: 1rem;
+}
+
+.loan {
+  display: flex;
+  margin: 1rem 1rem;
+}
+
+.offers {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.reason {
+  flex: 1;
+}
+
+.amount {
+  flex: 1;
+}
+
+.expiry {
+  flex: 1;
+}
+.status {
+  flex: 1;
+}

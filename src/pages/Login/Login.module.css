@@ -1,0 +1,11 @@
+.auth {
+  display: flex;
+  justify-content: end;
+  padding: 2rem;
+}
+
+.loginWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

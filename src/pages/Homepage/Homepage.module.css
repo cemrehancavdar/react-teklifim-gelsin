@@ -1,0 +1,10 @@
+.auth {
+  display: flex;
+  justify-content: end;
+  padding: 2rem;
+}
+.bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
